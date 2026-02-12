@@ -19,7 +19,7 @@ erDiagram
 
 <img width="1650" height="839" alt="image" src="https://github.com/user-attachments/assets/f9d402ae-fc54-4583-9107-fca1df5a2d74" />
 
-### 회원가입
+### <회원가입>
 
 request
 
@@ -43,7 +43,7 @@ response
 
 <br>
 
-### 로그인
+### <로그인>
 
 request
 
@@ -54,6 +54,8 @@ request
 }
 ```
 
+response
+
 ```jsx
 {
 "message" : "로그인 되었습니다."
@@ -62,15 +64,15 @@ request
 
 <br>
 
-### 유저 전체 조회
+### <유저 전체 조회>
 
 <br>
 
-### 유저 단건 조회
+### <유저 단건 조회>
 
 <br>
 
-### 유저 정보 수정
+### <유저 정보 수정>
 
 ```jsx
 {
@@ -88,7 +90,7 @@ request
 
 <br>
 
-### 유저 삭제
+### <유저 삭제>
 
 ```jsx
 {
@@ -98,7 +100,7 @@ request
 
 <br>
 
-### 일정 생성
+### <일정 생성>
 
 ```jsx
 {
@@ -122,15 +124,15 @@ request
 
 <br>
 
-### 일정 전체 조회
+### <일정 전체 조회>
 
 <br>
 
-### 일정 단건 조회
+### <일정 단건 조회>
 
 <br>
 
-### 일정 수정
+### <일정 수정>
 
 ```json
 {
@@ -155,7 +157,7 @@ request
 
 <br>
 
-### 유저 삭제
+### <유저 삭제>
 
 ```json
 {

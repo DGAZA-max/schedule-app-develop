@@ -13,7 +13,11 @@ erDiagram
         DATETIME modified_at
     }
 ```
+<br>
+<br>
+<br>
 
+<img width="1650" height="839" alt="image" src="https://github.com/user-attachments/assets/f9d402ae-fc54-4583-9107-fca1df5a2d74" />
 
 ### 회원가입
 

@@ -2,13 +2,14 @@ package com.sparta.scheduleappdevelopmain.entity;
 
 
 import jakarta.persistence.*;
+import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
 @Getter
-@jakarta.persistence.Entity
-@Table(name = "members")
-@NoArgsConstructor
+@Entity
+@Table(name = "users")
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class User extends Timestamped{
 
     @Id // 고유성 보장, Entity는 DB가 반드시 훑어보는 클래스

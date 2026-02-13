@@ -1,18 +1,7 @@
 # schedule-app-develop
 
-```mermaid
-erDiagram
+<img width="803" height="347" alt="image" src="https://github.com/user-attachments/assets/c5fa2aea-f037-46b5-b683-ae031911d562" />
 
-    SCHEDULE {
-        BIGINT id PK
-        VARCHAR title
-        VARCHAR content
-        VARCHAR name
-        VARCHAR password
-        DATETIME created_at
-        DATETIME modified_at
-    }
-```
 <br>
 <br>
 <br>
